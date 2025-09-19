@@ -113,14 +113,6 @@ messages (chat buyer–seller).
 
 shipping_methods (đơn vị vận chuyển).
 
-5️⃣ Timeline 3 tháng (12 tuần)
-
-Tháng 1 (Tuần 1–4): setup Laravel + DB + auth + CRUD sản phẩm + danh mục.
-
-Tháng 2 (Tuần 5–8): giỏ hàng, đặt hàng, coupon, wishlist, dashboard.
-
-Tháng 3 (Tuần 9–12): đánh giá sản phẩm, shipping realtime, chat realtime, flash sale, responsive, export báo cáo, viết báo cáo + chuẩn bị demo.
-
 6️⃣ Demo khi bảo vệ
 
 Đăng nhập bằng user → chọn sản phẩm → thêm giỏ hàng → đặt hàng.
