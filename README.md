@@ -2,7 +2,7 @@ Dự Án Tốt Nghiệp - Chợ Đầu Mối
 
 1️⃣ Công nghệ
 
-Backend: Laravel 10 (PHP 8, chạy XAMPP)
+Backend: Laravel 10 (PHP 12, chạy XAMPP)
 
 Frontend: Tailwind CSS / Bootstrap 5 + Alpine.js/Vue.js
 
